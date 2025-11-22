@@ -116,11 +116,11 @@ We are actively working on an **AI-based Companion Bot** that will interact with
 This will further improve accessibility for elderly users who struggle with navigating mobile interfaces.
 
 ### 3D Models (Work in Progress)
-<img src="screens/bot1.png" align="center"
+<img src="screens/bot1.jpg" align="center"
 width="200" hspace="10" vspace="10">
-<img src="screens/bot2.png" align="center"
+<img src="screens/bot2.jpg" align="center"
 width="200" hspace="10" vspace="10">
-<img src="screens/bot3.png" align="center"
+<img src="screens/bot3.jpg" align="center"
 width="200" hspace="10" vspace="10">
 
 We are designing assistive 3D models to pair with the system—potential use cases include wearable emergency triggers, desk stands, and accessibility-focused physical interfaces.
